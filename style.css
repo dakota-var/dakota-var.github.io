@@ -25,7 +25,7 @@ ul {
 li {
   color: #FFF;
   display: inline-block;
-  font-family: 'Oxygen', sans-serif;
+  font-family: Helvetica;
   font-size: 16px;
   font-weight: 300;
   letter-spacing: 2px;
@@ -52,7 +52,7 @@ table {
 thead th {
   background: #88CCF1;
   color: #FFF;
-  font-family: 'Lato', sans-serif;
+  font-family: Helvetica;
   font-weight: 100;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -65,7 +65,7 @@ tr {
 }
 
 th, td {
-  font-family: 'Lato', sans-serif;
+  font-family: Helvetica;
   font-size: 18px;
   font-weight: 400;
   padding: 20px;
